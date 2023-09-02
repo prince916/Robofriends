@@ -4,7 +4,7 @@
 
 body {
   background-color: rgb(20, 169, 228);
-}
+} 
 
 .CardContent {
   display: inline-block;
@@ -25,7 +25,7 @@ body {
 
 .CardContent:hover {
   transform: scale(1.1);
-  background-color: rgb(40, 239, 93);
+  background-color: rgb(13, 237, 72);
 }
 
 .Filled {
