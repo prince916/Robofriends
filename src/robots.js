@@ -70,5 +70,23 @@ export const robots = [
     name: 'Kelli Jones',
     username: 'Roger Bridge',
     email: 'Sophie123@gmail.com'
+  },
+  {
+    id: 10,
+    name: 'Qlementina DuBuque',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 11,
+    name: 'LC Donald',
+    username: 'Stalion Bridge',
+    email: 'MCGrawHill@gmail.com'
+  },
+  {
+    id: 12,
+    name: 'Melli Jones',
+    username: 'Roger Bridge',
+    email: 'Sophie123@gmail.com'
   }
 ]; 
