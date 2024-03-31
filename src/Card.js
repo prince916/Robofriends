@@ -1,7 +1,7 @@
 import React from 'react'
 
 
-// updating...
+// updating
 
 const Card = ({ name,email,id }) => {
   return (
