@@ -1,8 +1,5 @@
 import React from 'react'
 
-
-// update .............
-
 const Card = ({ name,email,id }) => {
   return (
     <div className='CardContent'>
