@@ -1,8 +1,6 @@
 import React from 'react'
 
 
-// New Stuff
-
 const Card = ({ name,email,id }) => {
   return (
     <div className='CardContent'>
